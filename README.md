@@ -16,9 +16,6 @@
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
-   
-<p align="right">(<a href="#top">back to top</a>)</p>
-
 <!-- ABOUT THE PROJECT -->
 
 # About The Project
