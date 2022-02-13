@@ -1,17 +1,20 @@
 <br />
 <div align="center">
- 
-
-  <h3 align="center">Multiple JS Projects</h3>
 
 </div>
-# Getting started
-1.  Clone the repository
-```
-git clone https://github.com/jfilipeferreira96/multiple-js-projects.git
-```
 
+<!-- GETTING STARTED -->
+## Getting Started
+
+### Installation
+1. Clone the repo
+   ```sh
+   git clone https://github.com/jfilipeferreira96/multiple-js-projects.git
+   ```
 2. You can now run the project by opening index.html
+
+
+<p align="right">(<a href="#top">back to top</a>)</p>
 
    
 <p align="right">(<a href="#top">back to top</a>)</p>

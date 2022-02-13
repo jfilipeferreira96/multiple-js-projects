@@ -53,20 +53,6 @@ figure:hover {
     opacity: 0.3;
   }
 }
-/*figure {
-  img {
-    -webkit-filter: grayscale(0) blur(0);
-    filter: grayscale(0) blur(0);
-    -webkit-transition: 0.3s ease-in-out;
-    transition: 0.3s ease-in-out;
-  }
-}
-figure:hover {
-  img {
-    -webkit-filter: grayscale(100%) blur(3px);
-	filter: grayscale(100%) blur(3px);
-  }
-}*/
 
 .project-grid figure figcaption a.button.is-rounded {
   margin: 0 auto;
