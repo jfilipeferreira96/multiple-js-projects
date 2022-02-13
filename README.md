@@ -36,7 +36,7 @@ I might later on add a repeat button and some other features such as a navigatio
 - Music player with 3 different themes.
 - Play, pause, next, previous track.
 
-<img  width="700px" height="auto" src="./img/projects/music-player-4.PNG"  />
+<img  width="700px" height="auto" src="./img/projects/music-players.PNG"  />
 
 ## Project 2 - Pong Game
 This was my first time using canvas. It is fairly simple to create the layout for this game. However, making the ball moving and the computer "AI" was quite challenging and I required some external aid.
