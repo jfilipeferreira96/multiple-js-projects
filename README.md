@@ -20,7 +20,7 @@
 
 # About The Project
 
-###Check it out : https://jfilipeferreira96.github.io/multiple-js-projects/
+Check it out : https://jfilipeferreira96.github.io/multiple-js-projects/
 
 <p align="center">
 <img  width="700px" height="auto" src="./img/projects/projects-page.PNG"  />
